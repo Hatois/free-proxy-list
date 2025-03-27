@@ -1,5 +1,8 @@
 # Free Proxy List (Updated Hourly)
 
+![Last Updated](https://img.shields.io/github/last-commit/Hatois/free-proxy-list)
+
+
 This repository contains a sample list of working public HTTP proxies maintained by [Proxy Sniper](https://proxysniper.com) — a high-performance proxy checker and aggregator.
 
 > 🔗 Visit [https://proxysniper.com](https://proxysniper.com) for the **full proxy list**, updated in real time.
