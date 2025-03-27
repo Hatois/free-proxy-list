@@ -37,7 +37,7 @@ This repo exists for transparency, testing, and indexing purposes. If you're bui
 67.43.227.226:19903
 43.135.129.111:13001
 ...
-
+```
 ## Use Cases
 These proxies are ideal for:
 
