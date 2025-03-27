@@ -37,3 +37,25 @@ This repo exists for transparency, testing, and indexing purposes. If you're bui
 67.43.227.226:19903
 43.135.129.111:13001
 ...
+
+## Use Cases
+These proxies are ideal for:
+
+    🌍 Bypassing geo-blocks (e.g. Netflix, MLB.tv, Disney+)
+
+    🕵️ Anonymous web scraping and crawling
+
+    📱 Social media automation (Instagram, TikTok, Facebook)
+
+    🛒 Monitoring e-commerce & ticketing platforms (Amazon, Supreme, Ticketmaster)
+
+    🔎 Ad tech, SERP analysis, and traffic simulation
+
+Whether you're a developer running scripts or a power user seeking anonymity, this list is a reliable starting point.
+
+## Licensing & Attribution
+This sample list is published for educational and non-commercial use.
+
+For commercial use, large-scale automation, or full proxy feed access, visit https://proxysniper.com and explore our premium plans — powered by crypto payments and tiered access.
+
+Made by Hatois · Powered by Proxy Sniper
