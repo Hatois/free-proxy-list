@@ -58,4 +58,4 @@ This sample list is published for educational and non-commercial use.
 
 For commercial use, large-scale automation, or full proxy feed access, visit https://proxysniper.com and explore our premium plans — powered by crypto payments and tiered access.
 
-Made by Hatois · Powered by Proxy Sniper
+Made by [Hatois](https://github.com/Hatois) · Powered by [Proxy Sniper](https://proxysniper.com)
