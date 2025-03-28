@@ -38,6 +38,16 @@ This repo exists for transparency, testing, and indexing purposes. If you're bui
 43.135.129.111:13001
 ...
 ```
+## Google Sheet (Daily Proxy Sample)
+
+Looking for a structured proxy list in spreadsheet format?
+
+We've published a lightweight, daily-updated sample here:
+
+📄 [Free Proxies Sample - Updated Daily (Google Sheet)](https://docs.google.com/spreadsheets/d/1guW73RgKLUcLUFGx9QRtqtAmbqMJG7aXKJGlT_XU2t4)
+
+Includes IP address, port, country, anonymity level, and HTTPS support.
+
 ## Use Cases
 These proxies are ideal for:
 
