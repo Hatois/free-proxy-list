@@ -63,6 +63,16 @@ These proxies are ideal for:
 
 Whether you're a developer running scripts or a power user seeking anonymity, this list is a reliable starting point.
 
+### Other public sources hosting this sample list:
+
+- https://pastebin.com/XJsxHu4D
+- https://codeberg.org/dbarker/public-proxy-list
+- https://bitbucket.org/vanholt-proxies/public-http-proxies/src/main/README.md
+- https://jade-ellipse-575.notion.site/Free-Proxy-List-for-Web-Scraping-SEO-Tools-1cea37a480f480159de7d840c54fd200
+- https://alex-proxies.bearblog.dev/20-free-proxies-for-web-scraping-and-seo-updated-daily/
+- https://telegra.ph/Free-Proxy-List-for-Scraping-and-SEO-Updated-Daily-04-07
+
+
 ## Licensing & Attribution
 This sample list is published for educational and non-commercial use.
 
